@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Birendra Kumar Sharma
-- 👀 I’m interested in Laravel, Django
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in Laravel and React
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
